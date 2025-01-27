@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alx2qndr
+- 👋 Hi, I'm @alx2qndr
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning OpenGL/Vulkan
-- 📫 How to reach me alx2qndr@gmail.com
-- ⚡ Fun fact: I'm not a robot!
+- 🌱 I’m currently learning graphics programming
+- 📫 How to reach me: alx2qndr@gmail.com
+- ⚡ Fun fact: I'm a ChatGPT bot!
 
 <!---
 alx2qndr/alx2qndr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
